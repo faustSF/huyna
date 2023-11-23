@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\user\source\repos\grafik\grafik\source.cpp(47): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\user\source\repos\grafik\grafik\source.cpp(53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\grafik\grafik\source.cpp(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  grafik.vcxproj -> C:\Users\user\source\repos\grafik\x64\Release\grafik.exe
